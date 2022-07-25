@@ -13,9 +13,11 @@
             <h1>Rafael William Ribeiro</h1>
         </div>
         <div id="content">
+            <br />
             <center>
-            <img src="https://pngimg.com/uploads/under_construction/under_construction_PNG18.png" />
-        </center>
+                <h1>Bem vindos!</h1>
+                <img src="https://pngimg.com/uploads/under_construction/under_construction_PNG18.png" />
+            </center>
         </div>
         <div id="footer">
             <p></p>
