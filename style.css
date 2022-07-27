@@ -1,9 +1,26 @@
+
+
+.secundary-style{
+    background: #1abc9c;
+    color: white;
+}
+
+#container{
+    
+}
+
 #header {
     padding: 60px;
     text-align: center;
-    background: #1abc9c;
-    color: white;
     font-size: 30px;
+}
+
+#content{
+    max-width: 1000px;
+    width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 #footer {
@@ -11,12 +28,16 @@
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: #1abc9c;
-    color: white;
     text-align: center;
 }
 
 h1{
     text-align: center;
     font-weight: bolder;
+    color: white;
+}
+
+.session{
+    margin-top: 5px;
+    margin-bottom: 10px;
 }

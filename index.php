@@ -9,17 +9,33 @@
 </head>
 <body>
     <div id="container">
-        <div id="header">
+        <div id="header" class="secundary-style">
             <h1>Rafael William Ribeiro</h1>
         </div>
         <div id="content">
-            <br />
-            <center>
-                <h1>Bem vindos!</h1>
-                <img src="https://pngimg.com/uploads/under_construction/under_construction_PNG18.png" />
-            </center>
+            <div class="session">
+                <h3>About me</h3>
+                <div class="description">
+                    <p>I'm a software developer since 2012. I Worked with Delphi language for 10 years but nowdays my focus is C# / .NET</p>
+                </div>
+            </div>
+            <div class="session">
+                <h3>Experiences</h3>
+                <dl>
+                    <dt>Delphi developer at Rhede Sistemas</dt>
+                    <dd>2012-2017</dd>
+                </dl>
+                <dl>
+                    <dt>Delphi developer at Linx</dt>
+                    <dd>2017-2022</dd>
+                </dl>
+                <dl>
+                    <dt>C# developer at Linx</dt>
+                    <dd>2022-Current</dd>
+                </dl>
+            </div>
         </div>
-        <div id="footer">
+        <div id="footer" class="secundary-style">
             <p></p>
             <br />
         </div>
