@@ -8,38 +8,37 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <div id="container">
-        <div id="header" class="secundary-style">
-            <h1>Rafael William Ribeiro</h1>
-        </div>
-        <div id="content">
-            <div class="session">
-                <h3>About me</h3>
-                <div class="description">
-                    <p>I'm a software developer since 2012. I Worked with Delphi language for 10 years but nowdays my focus is C# / .NET</p>
-                </div>
+    <header class="header">
+        <img src="images/logo1.png" alt="Logo image" />
+        <nav>
+            <a class="item">About</a>
+            <a class="item">Projects</a>
+        </nav>
+    </header>
+
+    <main class="content">
+        <section class="section-1">
+            <div>
+                <h1>Rafael William Ribeiro</h1>
+                <h2>Software developer</h2>
             </div>
-            <div class="session">
-                <h3>Experiences</h3>
-                <dl>
-                    <dt>Delphi developer at Rhede Sistemas</dt>
-                    <dd>2012-2017</dd>
-                </dl>
-                <dl>
-                    <dt>Delphi developer at Linx</dt>
-                    <dd>2017-2022</dd>
-                </dl>
-                <dl>
-                    <dt>C# developer at Linx</dt>
-                    <dd>2022-Current</dd>
-                </dl>
-            </div>
-        </div>
-        <div id="footer" class="secundary-style">
-            <p></p>
-            <br />
-        </div>
-    </div>
+            <img src="images/profile.jfif" alt="Profile image" />
+        </section>
+        <section class="section-2">
+            <h3>About</h3>
+            <p>Software developer since 2012. I Worked with ERP Systems using Delphi Language and MySQL as Database.
+                But Recently, I started work with C# / .NET, coding for Cloud applications</p>
+        </section>
+        <section class="section-2">
+            <h3>Skills</h3>
+            <p><strong>Program Languages:</strong> C#, .NET, Java, Delphi, HTML, CSS, JavaScript</p>
+            <p><strong>Annother tools:</strong> Git, Docker, Azure</p>
+        </section>
+    </main>
+
+    <footer>
+        <img src="images/logo2.png" alt="Logo image" />
+    </footer>
 </body>
 </html>
 
