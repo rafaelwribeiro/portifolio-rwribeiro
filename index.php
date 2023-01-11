@@ -31,7 +31,7 @@
         </section>
         <section class="section-2">
             <h3>Skills</h3>
-            <p><strong>Program Languages:</strong> C#, .NET, Java, Delphi, HTML, CSS, JavaScript</p>
+            <p><strong>Program Languages:</strong> C#, .NET, Java, Delphi, HTML, CSS, JavaScript, ReactJS</p>
             <p><strong>Annother tools:</strong> Git, Docker, Azure</p>
         </section>
     </main>
